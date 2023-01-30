@@ -1,4 +1,4 @@
-import  healthIndicators  from '../app';
+import healthIndicators from '../app';
 
 test.each([
   [90, { name: 'Маг', health: 90 }, 'healthy'],
