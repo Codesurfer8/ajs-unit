@@ -7,4 +7,4 @@ test.each([
 ])('testing level of health  with %s status and %i value', (__, player, expected) => {
     const result = healthIndicators(player)
     expect(result).toBe(expected)
-})
+});

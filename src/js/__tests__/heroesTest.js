@@ -8,4 +8,4 @@ test('health level sorting test', () => {
     ]
 
     expect(result).toEqual(heroes)
-})
+});
