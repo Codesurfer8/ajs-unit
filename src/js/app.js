@@ -1,5 +1,5 @@
 // TODO: write your code here
-export function healthIndicators(player) {
+export default function healthIndicators(player) {
     if (player.health > 50) {
         return 'healthy'
     }
