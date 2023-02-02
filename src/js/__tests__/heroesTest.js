@@ -1,4 +1,4 @@
-import { heroes } from '../heroes';
+import heroes from '../heroes';
 
 test('health level sorting test', () => {
   const result = [
