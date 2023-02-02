@@ -1,4 +1,4 @@
-//Comment
+// Comment
 
 import healthIndicators from '../app';
 
